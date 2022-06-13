@@ -22,9 +22,9 @@ Durante las fechas que se tienen datos, el número de ataques es bastante regula
 :shark: 2. **Dónde**
 Encabezan las estadísticas 3 países
 
-USA                               1779
-AUSTRALIA                         1053
-SOUTH AFRICA                       475
+	* USA                               1779
+	* AUSTRALIA                         1053
+	* SOUTH AFRICA                       475
 
 :shark: 3. **Cómo**
 Tres actividades principales: 
