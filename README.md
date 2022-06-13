@@ -19,7 +19,7 @@ La base de datos que ha sido proporcionada ha sido elaborada por una entidad que
 Los datos que se pueden valorar son a partir del s.xx
 Durante las fechas que se tienen datos, el número de ataques es bastante regular.
 
-:shark: 2. **Dónde**
+:shark: 2. **Dónde** -p
 Encabezan las estadísticas 3 países
 
 	* USA                               1779
@@ -29,17 +29,17 @@ Encabezan las estadísticas 3 países
 :shark: 3. **Cómo**
 Tres actividades principales: 
 
-Surfing           858
-Swimming          639
-Fishing           584
+	* Surfing           858
+	* Swimming          639
+	* Fishing           584
 
 :shark: 3. **Resultado** 19.4% de los ataques acabó en resultado mortal
-N        3430
-Y         826
+	* N        3430
+	* Y         826
 
 :shark: 3. **Las víctimas** 11.4% de las víctimas son mujeres
-M      3810
-F       492
+	* M      3810
+	* F       492
 
 
 
