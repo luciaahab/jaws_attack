@@ -15,7 +15,7 @@ La base de datos que ha sido proporcionada ha sido elaborada por una entidad que
 
 
 
-### Outcomes
+### Estadística
 
 :shark: 1. **Cuándo**:
 Los datos que se pueden valorar son a partir del s.xx
@@ -42,7 +42,9 @@ Tres actividades principales:
 :shark: 3. **Las víctimas**: 11.4% de las víctimas son mujeres
 	* M      3810
 	* F       492
+    
 
+### Resultado
 
 
 
